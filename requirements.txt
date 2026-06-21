@@ -1,0 +1,7 @@
+tensorflow
+opencv-python-headless
+pandas
+numpy
+matplotlib
+scikit-learn
+kagglehub
