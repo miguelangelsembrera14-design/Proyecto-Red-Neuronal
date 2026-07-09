@@ -7,5 +7,5 @@ LEARNING_RATE = 0.001
 
 DATASET_DIR = "dataset"
 MODEL_PATH = "modelo_cnn.h5"
-CLASSES_PATH = "clases.npy"
+CLASSES_PATH = "clases.npy"                                #como una lista de 0 hasta los demas
 CURVES_PATH = "curvas_entrenamiento.png"

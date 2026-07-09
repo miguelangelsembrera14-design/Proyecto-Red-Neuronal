@@ -28,8 +28,6 @@ while True:
         break
 
     h, w = frame.shape[:2]
-
-    # Región central (60% del frame)
     margen_x = int(w * 0.20)
     margen_y = int(h * 0.20)
     x1, y1 = margen_x, margen_y
